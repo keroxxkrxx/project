@@ -1,7 +1,7 @@
 import telebot
 import requests
 
-bot = telebot.TeleBot('6389998596:AAHtSHLjpzl0hOPH5198ZuaggwPPcmwUkAk')
+bot = telebot.TeleBot('sigmaпасхалко')
 
 start_txt = 'Привет! Это бот прогноза погоды.\nНапиши любой символ чтобы\nузнать погоду в Новосибирске на данный момент.'
 
