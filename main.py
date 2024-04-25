@@ -2,8 +2,8 @@ import telebot
 import requests
 import traceback
 
-bot = telebot.TeleBot('6389998596:AAHtSHLjpzl0hOPH5198ZuaggwPPcmwUkAk')
-admin_id = 
+bot = telebot.TeleBot('private_for_you')
+admin_id = private_for_you
 
 start_txt = 'Привет! Это бот прогноза погоды.\nНапиши любой символ чтобы\nузнать погоду в Новосибирске на данный момент.'
 
